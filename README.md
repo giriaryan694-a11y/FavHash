@@ -74,7 +74,7 @@ python3 favhash.py -f favicon.ico
 ### ▶ Save extracted favicon
 
 ```bash
-python3 favhash.py -u http://example.com --save icon.ico
+python3 favhash.py -u http://example.com --s icon.ico
 ```
 
 ### ▶ Select hashing algorithm
