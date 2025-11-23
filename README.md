@@ -18,17 +18,17 @@ Favicons are widely reused — and this becomes a powerful fingerprinting method
 
 ## 🚀 Features
 
-✔ **Accurate MMH3 hashing (Shodan-compatible)**
-✔ **MD5, SHA1, SHA256 support**
-✔ **Fetch favicon from URL**
-✔ **Hash local favicon files**
-✔ **Auto-detect common favicon paths**
-✔ **Correct Base64 encoding for MMH3**
-✔ **Color output with optional `--no-color`**
-✔ **Custom ASCII banner (pyfiglet)**
-✔ **Clean error handling**
-✔ **Save downloaded favicon**
-✔ **OSINT correlation query generator** (Shodan, FOFA, Zoomeye, Censys)
+- ✔ **Accurate MMH3 hashing (Shodan-compatible)**
+- ✔ **MD5, SHA1, SHA256 support**
+- ✔ **Fetch favicon from URL**
+- ✔ **Hash local favicon files**
+- ✔ **Auto-detect common favicon paths**
+- ✔ **Correct Base64 encoding for MMH3**
+- ✔ **Color output with optional `--no-color`**
+- ✔ **Custom ASCII banner (pyfiglet)**
+- ✔ **Clean error handling**
+- ✔ **Save downloaded favicon**
+- ✔ **OSINT correlation query generator** (Shodan, FOFA, Zoomeye, Censys)
 
 This tool is fully **client-side** (no external API calls).
 
