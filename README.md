@@ -190,5 +190,5 @@ This tool is built strictly for:
 ## ⭐ Support the Project
 
 If you like this tool:
-✅ Give it a **star** ⭐ on GitHub
-✅ Share it with fellow OSINT analysts and bug bounty hunters
+- ✅ Give it a **star** ⭐ on GitHub
+- ✅ Share it with fellow OSINT analysts and bug bounty hunters
